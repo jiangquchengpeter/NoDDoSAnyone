@@ -3,17 +3,28 @@
 **Peace and love.**
 
 **Web Attack to Russian MUST BE STOPPED!**
+
 This repository is forked from 0x77dev.
+
 However, as the original repository, which is designed to do something eval, it contains a set of tools to attack russian services such as news, food delivery, transport and more for both technical and non-technical kind of persons. 
+
 But, please do not use this to attack anyone, as i forked here and try to modify it. It is just an opportunity for eduacation, for learning, and try to defence from it. 
 
 **Do NOT use it to Web Attack Russian!**
+
 **Do NOT use it to Web Attack Russian!**
+
 **Do NOT use it to Web Attack Russian!**
+
 **Do NOT use it to Web Attack Russian!**
+
+
 
 
 **The followings are from the original repo:**
+
+
+
 
 ## How to get started?
 
@@ -89,6 +100,19 @@ by requesting Cloudflare Gateway:
 ```
 https://srl.0x77.dev
 ``` 
+
+things you receive will be like:
+```
+{
+  "targets": [
+    "https://xxxxx.ua/",
+    "https://xxxx.ua/",
+    "https://xxx.ua/",
+    "https://xx.ua/",
+  ],
+  "version": 1646103235
+}
+```
 
 or by requesting Cloudflare Gateway directly:
 
